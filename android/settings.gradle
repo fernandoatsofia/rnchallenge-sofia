@@ -1,0 +1,3 @@
+rootProject.name = 'rnChallengeSofia'
+
+include ':app'
