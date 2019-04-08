@@ -1,4 +1,4 @@
-# React Native Challenge - Sofíaa
+# React Native Challenge - Sofía
 
 ## Instrucciones
   - Clona este repositorio
@@ -8,7 +8,7 @@ yarn
 ```
   - Corre el proyecto:
 ```
-react-native run-android
+react-native run-ios
 ```
 ó
 ```
